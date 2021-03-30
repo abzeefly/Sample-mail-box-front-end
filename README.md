@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Screenshots
+
+!(https://github.com/abzeefly/Sample-mail-box-front-end/blob/624ab40b296f15b35c5c48f013667646624d6e7a/Home%20Screen.PNG)
