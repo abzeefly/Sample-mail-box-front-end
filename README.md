@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Screenshots
 
-![home screen] (https://github.com/abzeefly/Sample-mail-box-front-end/blob/main/Home%20Screen.PNG)
+![home screen](https://github.com/abzeefly/Sample-mail-box-front-end/blob/main/Home%20Screen.PNG)
