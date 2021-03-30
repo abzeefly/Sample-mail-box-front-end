@@ -1,4 +1,4 @@
-# hennge_frontend
+# Sample Mail Box
 
 ## Project setup
 ```
